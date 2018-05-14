@@ -1,0 +1,6 @@
+node_modules
+db.json
+.git
+config.js
+package-lock.json
+.gitignore.swp

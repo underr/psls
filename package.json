@@ -1,0 +1,16 @@
+{
+  "name": "psls",
+  "version": "1.0.0",
+  "description": "pretty simple link shortener",
+  "main": "index.js",
+  "author": "underr",
+  "license": "GPL2",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "lowdb": "^1.0.0",
+    "serve-favicon": "^2.5.0",
+    "uuid": "^3.2.1",
+    "whiskers": "^0.4.0"
+  }
+}

@@ -1,0 +1,8 @@
+var config = {
+	site_name: "psls",
+	site: "localhost:5000",
+	port: 5000, 
+	v: '0.1'
+};
+
+module.exports = config;
